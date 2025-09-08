@@ -30,3 +30,6 @@ def palindrome(string):
 
 print(palindrome("racecar"))
 print(palindrome("poop")R)
+
+
+yash is big and needs to like be better and yea and bro you aasdf;lajsd flk;ja dsfl;kjasd;lkfjasdlk;jfasd;lkjfdsli
