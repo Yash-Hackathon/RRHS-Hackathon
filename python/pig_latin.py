@@ -29,4 +29,4 @@ def palindrome(string):
 		return False
 
 print(palindrome("racecar"))
-print(palindrome("poop"))
+print(palindrome("poop")R)
