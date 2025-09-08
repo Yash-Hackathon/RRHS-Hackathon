@@ -1,6 +1,1 @@
-
-6 7 Yash is very big
-hiiiiiiii
-yash sybau
-
-yash is still big
+I HATE MINI - ANSH THAKAR
